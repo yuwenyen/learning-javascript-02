@@ -62,8 +62,8 @@ FizzBuzz
 
 ### 問題文
 
-引用元: 【タイトルとリンクを書く】
+引用元: 
+干支を求めるプログラム  http://vipprog.net/wiki/exercise.html#v95a6d75
 
-【ここに問題を書き写す】
 
 
